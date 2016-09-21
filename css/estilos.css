@@ -6,7 +6,7 @@
 }
 body
 {
-	background-image: url(../img/fondounad.JPG);
+	background-image: url(../img/fondounad.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -28,7 +28,7 @@ nav
 {
 width: 1000px;
 height: 85px;
-background-image: url(../img/nav.JPG);
+background-image: url(../img/nav.jpg);
 border-radius: 10px;
 margin-top: 10px;
 }
@@ -60,7 +60,7 @@ li a:hover
 section
 {
 	width: 694px;
-	background-image: url(../img/section.JPG);
+	background-image: url(../img/section.jpg);
 	height: 609px;
 	float: left;
 	margin-top: 10px;
@@ -70,7 +70,7 @@ aside
 {
 
 	width: 283px;
-	background-image: url(../img/aside.JPG);
+	background-image: url(../img/aside.jpg);
 	height: 609px;
 	float: left;
 	margin-left: 20px;
@@ -145,7 +145,7 @@ footer
 {
 width: 1006px;
 height: 128px;
-background: url(../img/footer.JPG);
+background: url(../img/footer.jpg);
 float: left;
 margin-top: 10px;
 border-radius: 10px;
