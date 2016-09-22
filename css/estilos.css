@@ -124,17 +124,7 @@ h2
 	color: #fff;
 	margin-left: 90px;
 	text-decoration: none;
-	padding: 30px
-}
-h3
-{
-	font-family: 'Libre Franklin', sans-serif;+
-	display: inline-block;
-	font-size: 14px;
-	text-align: center;
-	color: #fff;
-	margin-left: 90px;
-	text-decoration: none;
+	padding: 25px
 }
 footer a
 {
@@ -145,8 +135,8 @@ footer a
 }
 footer
 {
-width: 1006px;
-height: 128px;
+width: 1000px;
+height: 84px;
 background: url(../img/footer.jpg);
 float: left;
 margin-top: 10px;
